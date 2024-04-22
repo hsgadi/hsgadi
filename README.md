@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hussain Gadi.
-- 👀 I’m interested in React.JS, Nest.JS, GraphQL, Apollo-client, URQL, AWS-AppSync and Postgres.
+- 👀 I’m interested in React.JS,Next.JS,React Native, Nest.JS, GraphQL, Apollo-client, URQL, AWS-AppSync and Postgres.
 - 🌱 I’m currently learning DSA and advance Javascript.
 - 📫 How to reach me hsgadi#0442(Discord), and hsgadi@gmail.com.
 
